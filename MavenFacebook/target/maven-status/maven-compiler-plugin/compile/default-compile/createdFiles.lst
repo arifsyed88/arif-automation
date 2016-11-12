@@ -1,0 +1,17 @@
+com/automation/facebook/MavenFacebook/HelpPage.class
+com/automation/facebook/MavenFacebook/NewYorkPlacesPage.class
+com/automation/facebook/MavenFacebook/NotesPage.class
+com/automation/facebook/MavenFacebook/HomePage.class
+com/automation/facebook/MavenFacebook/BasePage.class
+com/automation/facebook/MavenFacebook/AboutPage.class
+com/automation/facebook/MavenFacebook/AdsChoicesPage.class
+com/automation/facebook/MavenFacebook/PlacesPage.class
+com/automation/facebook/MavenFacebook/DevelopersPage.class
+com/automation/facebook/MavenFacebook/CareersPage.class
+com/automation/facebook/MavenFacebook/TermsPage.class
+com/automation/facebook/MavenFacebook/ManhattanPage.class
+com/automation/facebook/MavenFacebook/PublicInfoPage.class
+com/automation/facebook/MavenFacebook/SuccessStoriesPage.class
+com/automation/facebook/MavenFacebook/WebDriverFactory.class
+com/automation/facebook/MavenFacebook/NameRejectedPage.class
+com/automation/facebook/MavenFacebook/GamesPage.class

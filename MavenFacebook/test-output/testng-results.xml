@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13702" started-at="2016-11-05T14:46:18Z" finished-at="2016-11-05T14:46:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13702" started-at="2016-11-05T14:46:18Z" finished-at="2016-11-05T14:46:32Z">
+      <class name="com.automation.facebook.MavenFacebook.LeaveComment">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.automation.facebook.MavenFacebook.LeaveComment@3fee9989]" name="beforeClass" is-config="true" duration-ms="3181" started-at="2016-11-05T10:46:18Z" finished-at="2016-11-05T10:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="leaveComment()[pri:0, instance:com.automation.facebook.MavenFacebook.LeaveComment@3fee9989]" name="leaveComment" duration-ms="10270" started-at="2016-11-05T10:46:22Z" finished-at="2016-11-05T10:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveComment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.facebook.MavenFacebook.LeaveComment@3fee9989]" name="tearDown" is-config="true" duration-ms="223" started-at="2016-11-05T10:46:32Z" finished-at="2016-11-05T10:46:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.facebook.MavenFacebook.LeaveComment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

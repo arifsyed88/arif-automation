@@ -1,0 +1,48 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 2,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 1
+    },
+    "stories" : [ {
+      "uid" : "7ae57bdbe9a74f10",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 2,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 1
+      },
+      "testCases" : [ {
+        "uid" : "4c3c478e835c7f02",
+        "name" : "leaveComment",
+        "title" : "Leave comment",
+        "time" : {
+          "start" : 1478652696185,
+          "stop" : 1478652707383,
+          "duration" : 11198
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1938a2bbcf1bd97a",
+        "name" : "nonMatchingMobileNumberError",
+        "title" : "Non matching mobile number error",
+        "time" : {
+          "start" : 1478652721053,
+          "stop" : 1478652742806,
+          "duration" : 21753
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      } ]
+    } ]
+  } ]
+}

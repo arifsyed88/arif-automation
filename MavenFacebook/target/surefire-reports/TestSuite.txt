@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 78.896 sec <<< FAILURE! - in TestSuite
+nonMatchingMobileNumberError(com.automation.facebook.MavenFacebook.NonMatchingMobileNumber)  Time elapsed: 31.898 sec  <<< FAILURE!
+java.util.NoSuchElementException: Specified Element is not found
+	at com.automation.facebook.MavenFacebook.BasePage.assertEqualsTo(BasePage.java:90)
+	at com.automation.facebook.MavenFacebook.HomePage.enterNonMatchingNumber(HomePage.java:61)
+	at com.automation.facebook.MavenFacebook.NonMatchingMobileNumber.nonMatchingMobileNumberError(NonMatchingMobileNumber.java:17)
+
