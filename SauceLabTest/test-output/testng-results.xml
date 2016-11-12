@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30661" started-at="2016-11-10T00:34:13Z" finished-at="2016-11-10T00:34:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30661" started-at="2016-11-10T00:34:13Z" finished-at="2016-11-10T00:34:44Z">
+      <class name="com.automation.SauceLabs.SauceLabTest.SampleTest">
+        <test-method status="PASS" signature="initializeWebDriver()[pri:0, instance:com.automation.SauceLabs.SauceLabTest.SampleTest@2ac273d3]" name="initializeWebDriver" is-config="true" duration-ms="14519" started-at="2016-11-09T19:34:13Z" finished-at="2016-11-09T19:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method status="PASS" signature="sampleTest2()[pri:0, instance:com.automation.SauceLabs.SauceLabTest.SampleTest@2ac273d3]" name="sampleTest2" duration-ms="15747" started-at="2016-11-09T19:34:28Z" finished-at="2016-11-09T19:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.SauceLabs.SauceLabTest.SampleTest@2ac273d3]" name="tearDown" is-config="true" duration-ms="296" started-at="2016-11-09T19:34:44Z" finished-at="2016-11-09T19:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.SauceLabs.SauceLabTest.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
